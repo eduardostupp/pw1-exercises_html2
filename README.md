@@ -35,6 +35,9 @@ __8 -__
 __9 -__ [Escreva o HTML que simula o formulário abaixo.](/exercicios/9.html)
 
 
+__10 -__ [Escreva o HTML que simula o formulário da imagem abaixo](/exercicios/10.html)
+
+
 __11 -__ 
 
 
