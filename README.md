@@ -24,7 +24,7 @@ __5 -__ [Qual será o resultado da renderização do HTML abaixo no navegador de
 __6 -__ [Resolva esse exercício seguindo as mesmas instruções do Exercício 5](/exercicios/6.png)
 
 
-__7 -__
+__7 -__ [Descreva o resultado de renderização do HTML](/exercicios/7.txt)
 
 
 __8 -__

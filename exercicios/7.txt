@@ -1,0 +1,15 @@
+Primeiro Parágrafo:
+
+O primeiro link tem o texto "Link 1" e possui um atributo href apontando para "index.php".
+O segundo link tem o texto "Google" e possui um atributo href apontando para "http://www.google.com".
+Os dois links são separados por uma quebra de linha (<br>), fazendo com que apareçam um abaixo do outro.
+
+
+Segundo Parágrafo:
+
+O link tem o texto "Yahoo" e possui um atributo href apontando para "http://www.yahoo.com".
+Portanto, o resultado será uma página com os seguintes links:
+
+"Link 1" que redireciona para "index.php".
+"Google" que redireciona para o site "http://www.google.com".
+"Yahoo" que redireciona para o site "http://www.yahoo.com".
