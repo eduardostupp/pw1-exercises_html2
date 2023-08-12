@@ -41,7 +41,7 @@ __10 -__ [Escreva o HTML que simula o formulário da imagem abaixo](/exercicios/
 __11 -__ 
 
 
-__12 -__
+__12 -__ [Criar uma página HTML a exemplo da imagem abaixo.](/exercicios/12.html)
 
 
 __13 -__
