@@ -18,7 +18,7 @@ __3 -__ [Escreva um HTML que tenha os seguintes itens](/exercicios/3.html)
 __4 -__ [Crie uma tabela HTML a exemplo](/exercicios/4.html)
 
 
-__5 -__
+__5 -__ [Qual será o resultado da renderização do HTML abaixo no navegador de internet](/exercicios/5.png)
 
 
 __6 -__
