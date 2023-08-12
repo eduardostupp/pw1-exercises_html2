@@ -9,7 +9,7 @@ Exercicios:
 __1 -__ [Implemente os títulos conforme o exemplo passado.](/exercicios/1.html)
 
 
-__2 -__
+__2 -__ [Implemente uma página HTML como no exemplo](/exercicios/2.html)
 
 
 __3 -__
