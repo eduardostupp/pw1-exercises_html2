@@ -30,10 +30,10 @@ __7 -__ [Descreva o resultado de renderização do HTML](/exercicios/7.txt)
 __8 -__
 
 
-__9 -__
+__9 -__ [Escreva o HTML que simula o formulário abaixo.](/exercicios/9.html)
 
 
-__11 -__
+__11 -__ 
 
 
 __12 -__
