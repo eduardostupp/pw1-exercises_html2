@@ -15,7 +15,7 @@ __2 -__ [Implemente uma página HTML como no exemplo](/exercicios/2.html)
 __3 -__ [Escreva um HTML que tenha os seguintes itens](/exercicios/3.html)
 
 
-__4 -__
+__4 -__ [Crie uma tabela HTML a exemplo](/exercicios/4.html)
 
 
 __5 -__
