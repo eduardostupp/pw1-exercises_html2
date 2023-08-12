@@ -12,7 +12,7 @@ __1 -__ [Implemente os títulos conforme o exemplo passado.](/exercicios/1.html)
 __2 -__ [Implemente uma página HTML como no exemplo](/exercicios/2.html)
 
 
-__3 -__
+__3 -__ [Escreva um HTML que tenha os seguintes itens](/exercicios/3.html)
 
 
 __4 -__
