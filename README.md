@@ -6,7 +6,7 @@ Este repositório corresponde à segunda atividade da disciplina de Programaçã
 
 Exercicios:
 
-__1 -__ Implemente de títulos conforme o exemplo
+__1 -__ Implemente os títulos conforme o exemplo passado.
 
 
 __2 -__
