@@ -6,7 +6,7 @@ Este repositório corresponde à segunda atividade da disciplina de Programaçã
 
 Exercicios:
 
-__1 -__ Implemente os títulos conforme o exemplo passado.
+__1 -__ [Implemente os títulos conforme o exemplo passado.](../pw1-exercises_html2/exercicios/1.html)
 
 
 __2 -__
