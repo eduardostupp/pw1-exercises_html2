@@ -56,7 +56,7 @@ __15 -__ [Utilizando imagens. Crie uma página HTML seguindo o exemplo da imagem
 __16 -__ [Realize todas as correções de formatação e escrita no HTML abaixo](./exercicios/16.html)
 
 
-__17 -__
+__17 -__ [Seguindo o exemplo da imagem abaixo. Crie uma página HTML com listas, Links e  ncoras. Possibilitando que a página seja navegável](./exercicios/17.html)
 
 
 __18 -__
