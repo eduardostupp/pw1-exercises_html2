@@ -47,7 +47,7 @@ __12 -__ [Criar uma página HTML a exemplo da imagem abaixo.](/exercicios/12.htm
 __13 -__ [Criar uma página HTML conforme a imagem abaixo](/exercicios/13.html)
 
 
-__14 -__
+__14 -__ [Criar uma página HTML conforme a imagem abaixo](/exercicios/14.html)
 
 
 __15 -__
