@@ -50,7 +50,7 @@ __13 -__ [Criar uma página HTML conforme a imagem abaixo](/exercicios/13.html)
 __14 -__ [Criar uma página HTML conforme a imagem abaixo](/exercicios/14.html)
 
 
-__15 -__
+__15 -__ [Utilizando imagens. Crie uma página HTML seguindo o exemplo da imagem abaixo. (obs: Utilize imagens a sua escolha)](./exercicios/15.html)
 
 
 __16 -__
