@@ -59,7 +59,7 @@ __16 -__ [Realize todas as correções de formatação e escrita no HTML abaixo]
 __17 -__ [Seguindo o exemplo da imagem abaixo. Crie uma página HTML com listas, Links e  ncoras. Possibilitando que a página seja navegável](./exercicios/17.html)
 
 
-__18 -__
+__18 -__ [Crie uma tabela HTML seguindo o exemplo da imagem abaixo](./exercicios/18.html)
 
 
 __19 -__
