@@ -29,7 +29,7 @@ __6 -__ [Resolva esse exercício seguindo as mesmas instruções do Exercício 5
 __7 -__ [Descreva o resultado de renderização do HTML](/exercicios/07.txt)
 
 
-__8 -__
+__8 -__ [Escreva o HTML que simula o formulário e tabela abaixo](/exercicios/08.html)
 
 
 __9 -__ [Escreva o HTML que simula o formulário abaixo.](/exercicios/09.html)
