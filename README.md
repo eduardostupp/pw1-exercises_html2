@@ -66,9 +66,3 @@ __19 -__ [Criar um site baseando-se na imagem que consta no link](./exercicios/1
 
 
 __20 -__ [Loja de bolos](./exercicios/20.html)
-
-
-__21 -__
-
-
-__22 -__
