@@ -62,7 +62,7 @@ __17 -__ [Seguindo o exemplo da imagem abaixo. Crie uma página HTML com listas,
 __18 -__ [Crie uma tabela HTML seguindo o exemplo da imagem abaixo](./exercicios/18.html)
 
 
-__19 -__
+__19 -__ [Criar um site baseando-se na imagem que consta no link](./exercicios/19.html)
 
 
 __20 -__
